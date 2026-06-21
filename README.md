@@ -69,7 +69,7 @@ Includes real customer narratives, historical issue labels, metadata, company na
 ---
 
 ## 🧰 Tech Stack
-| Layer | Technology |
+| Layer | Technology | 
 |------|-----------|
 | NLP | TF‑IDF Vectorization |
 | Models | Logistic Regression (deployed), SVM (baseline) |
