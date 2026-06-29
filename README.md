@@ -33,7 +33,7 @@ A **compact, production‑ready system** that reads raw consumer complaints, pre
 ✅ **Single‑text prediction**  
 ✅ **Batch CSV inference**  
 ✅ **TF‑IDF + Logistic Regression**  
-✅ **Deployable Streamlit app**  
+✅ **Deployable Streamlit app**
 
 ---
 
